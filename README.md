@@ -29,7 +29,8 @@ I focus on building clean, maintainable, and well-documented web applications us
 - Swagger / OpenAPI
 
 ## Projects
-- **REST API with EF Core** – storing and managing data in a SQL database
+- **REST API with EF Core** – storing and managing data in a SQL database  
+  https://github.com/devbybas/dotnet-rest-api-efcore
 - **Simple Authentication API** – basic login and JWT handling
 - **API Dashboard Frontend** – frontend application consuming a REST API
 - **React Form Validation** – reusable form components with validation
