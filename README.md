@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Bas 👋  
+Full Stack Developer | Informatiker EFZ Applikationsentwicklung
 
-<!--
-**devbybas/devbybas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Full Stack Developer from Switzerland, currently completing my apprenticeship as an Informatiker EFZ in application development.
 
-Here are some ideas to get you started:
+I focus on building clean, maintainable, and well-documented web applications using modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Frontend**
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- ASP.NET Core Web API
+- REST APIs
+
+**Database**
+- SQL Server
+- PostgreSQL
+
+**Tools**
+- Git & GitHub
+- GitHub Actions
+- Swagger / OpenAPI
+
+## Projects
+- **REST API with EF Core** – storing and managing data in a SQL database
+- **Simple Authentication API** – basic login and JWT handling
+- **API Dashboard Frontend** – frontend application consuming a REST API
+- **React Form Validation** – reusable form components with validation
+
+## Contact
+- GitHub: https://github.com/devbybas
