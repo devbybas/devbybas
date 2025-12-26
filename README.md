@@ -11,6 +11,7 @@ I focus on building clean, maintainable, and well-documented web applications us
 **Frontend**
 - React
 - Next.js
+- Vite.js
 - TypeScript
 - FluentUI
 - Tailwind CSS
