@@ -12,6 +12,7 @@ I focus on building clean, maintainable, and well-documented web applications us
 - React
 - Next.js
 - TypeScript
+- FluentUI
 - Tailwind CSS
 
 **Backend**
